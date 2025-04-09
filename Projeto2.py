@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime as dt
 
-df = pd.read_csv(r'C:\Users\Computadores Gamer\PycharmProjects\pythonProject\Projeto2\dados\dataset.csv')
+df = pd.read_csv(r'dados\dataset.csv')
 
 print(df.head())  # Amostra dos 5 primeiros dados
 print(df.tail())  # Amostra dos 5 últimos dados
