@@ -30,5 +30,11 @@ P6 - Qual o total de vendas por segmento e por ano?
 
 P7 - Quantas vendas receberiam 15% de desconto (com base em regras de desconto específicas)?
 
+P8 - Considere que a Empresa decida conceder o eesconto de 15% do item anterior. Qual seria a média do valor de venda antes e depois do desconto?
+
+P9 - Qual o média de vendas por segmento, por ano e por mês?
+
+P10 - Qual o total de vendas por categoria e subcategoria, considerando somente as top 12 subcategorias?
+
 ## Contribuição
 Este projeto pode ser expandido para incluir outras perguntas e abordagens relacionadas à análise de dados. Ele serve como um excelente exemplo para introdução à Análise de Dados e Ciência de Dados usando Python.
